@@ -12,3 +12,9 @@ Es necesaria una compilación de los archivos y, quizá una refactorización, po
   - Al tirar turno se cae en una de las casillas del juego, la cual se puede comprar por el precio establecido, venderla en caso de que pertenezca a uno de los jugadores, pagar al otro jugador dinero si es que le pertenece, o caer en casillas de suerte, caja de comunidad o cárcel.
   - El juego no termina hasta que uno de los usuarios cae en bancarrota, al igual que el juego original.
 #
+
+
+Al proyecto le realizamos los siguientes diagramas:
+- Casos de Uso
+- Secuencia
+- Clases
